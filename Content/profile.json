@@ -4,11 +4,11 @@
   "Currently": "Electrical Engineering student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi I am Francesco De Lorenzo Im a junior in electrical engineering. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of Electrical Engineering, with a particular focus on circuitry and R&D. I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br> I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+  "AboutText": "Hi I am Francesco De Lorenzo Im a Senior in electrical engineering. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of Electrical Engineering, with a particular focus on circuitry and R&D. I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br> I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
 },
 "Contact": {
-  "EMail": "delorenzof@spu.edu",
-  "Phone": "2064751886",
+  "EMail": "**lorenzo*@spu.edu",
+  "Phone": "206-***-****",
   "Portfolio": "https://pancho-223.github.io/SPU_GithubPortfolio/index.html",
   "LinkedIn": "https://www.linkedin.com/in/francesco-lorenzo/",
   "GitHub": "https://www.github.com"
@@ -34,14 +34,14 @@
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
+    "Title": "Junior Design Project: FPV Drone",
     "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
     "MainImage": "P2Main.png",
     "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
-    "Title": "Interesting Project 3",
+    "Title": "Senior Design Project: Backcountry Smartwatch",
     "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
     "GitHubRepo": "",
     "MainImage": "P3Main.png",
