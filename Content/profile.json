@@ -28,10 +28,10 @@
 },
 "Project1": {
     "Title": "Bandpass Sallen Key IR Detector",
-    "Desc": "This is the assembled circuit on a breaboard which successfully filters out all prequencies but 10kHz, then using a peak detector will find the peak voltage and run that into a comparator to signal an LED to turn on when the correct frequency is passed. ",
+    "Desc": "This is the assembled circuit on a breadboard, which successfully filters out all prequencies but 10kHz, then using a peak detector will find the peak voltage and run that into a comparator to signal an LED to turn on when the correct frequency is passed. ",
     "GitHubRepo": " https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
     "MainImage": "P1Main.png",
-    "DetailImages": [" "]
+    "DetailImages": []
   },
   "Project2": {
     "Title": "Junior Design Project: FPV Drone",
@@ -42,8 +42,8 @@
   },
   "Project3": {
     "Title": "Senior Design Project: Backcountry Smartwatch",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
+    "Desc": "This project is based on designing a quad sensor digital watch that can sense your altitude, temperature, barometric pressure, incline, and a compass. It will be displayed on a small graphical LCD display in a waterproof CNC'd aluminum housing.",
+    "GitHubRepo": " https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
     "MainImage": "P3Main.png",
     "DetailImages": []
   },
