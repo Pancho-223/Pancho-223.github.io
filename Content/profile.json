@@ -24,7 +24,7 @@
   "EmploymentText": " ",
   "Skills": ["C++", " Solidworks", " Multisim", "Altium"," MATLAB"],
   "SkillsText": " ",
-  "Resume": ""  
+  "Resume": "Resume.pdf"  
 },
 "Project1": {
     "Title": "Bandpass Sallen Key IR Detector",
