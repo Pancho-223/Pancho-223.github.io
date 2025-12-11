@@ -31,7 +31,7 @@
     "Desc": "This is the assembled circuit on a breaboard which successfully filters out all prequencies but 10kHz, then using a peak detector will find the peak voltage and run that into a comparator to signal an LED to turn on when the correct frequency is passed. ",
     "GitHubRepo": " https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
     "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "DetailImages": [" "]
   },
   "Project2": {
     "Title": "Junior Design Project: FPV Drone",
