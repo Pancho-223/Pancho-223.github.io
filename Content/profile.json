@@ -37,14 +37,14 @@
     "Title": "Junior Design Project: FPV Drone",
     "Desc": "This project had us design a drone chassis and calculate the proper battery size for a high-speed FPV drone. We worked in cross-disciplinary teams to create a functional prototype.",
     "GitHubRepo": " ",
-    "MainImage": "IMG_0290.png",
+    "MainImage": "IMG_0290.jpeg",
     "DetailImages": []
   },
   "Project3": {
     "Title": "Senior Design Project: Backcountry Smartwatch",
     "Desc": "This project is based on designing a quad sensor digital watch that can sense your altitude, temperature, barometric pressure, incline, and a compass. It will be displayed on a small graphical LCD display in a waterproof CNC'd aluminum housing.",
     "GitHubRepo": " ",
-    "MainImage": "PCBfixed.png",
+    "MainImage": "PCBfixed.jpg",
     "DetailImages": []
   },
   "Project4": {
